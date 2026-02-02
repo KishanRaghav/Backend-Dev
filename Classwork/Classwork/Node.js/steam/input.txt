@@ -1,6 +1,0 @@
-Hello World
-This is a test of write stream.
-Final chunk of data.
-Hello World
-This is a test of write stream.
-Final chunk of data.
